@@ -1,4 +1,4 @@
-# DRL Agent for ESP32 Life Ong learning - Shooting Game
+# DRL Agent for ESP32 Life Long learning - Shooting Game
 
 This project implements a Deep Reinforcement Learning (DRL) agent that learns to play a shooting game on an ESP32 microcontroller. The agent uses a Deep Q-Network (DQN) to learn optimal strategies for moving and shooting in a 2D game environment.
 
